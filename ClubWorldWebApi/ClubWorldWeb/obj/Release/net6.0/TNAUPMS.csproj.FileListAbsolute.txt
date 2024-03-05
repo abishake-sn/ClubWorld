@@ -1,0 +1,12 @@
+E:\WebApp\TNAUPMSAPI\TNAUPMS\bin\Release\net6.0\TNAUPMS.deps.json
+E:\WebApp\TNAUPMSAPI\TNAUPMS\bin\Release\net6.0\TNAUPMS.dll
+E:\WebApp\TNAUPMSAPI\TNAUPMS\bin\Release\net6.0\TNAUPMS.pdb
+E:\WebApp\TNAUPMSAPI\TNAUPMS\obj\Release\net6.0\TNAUPMS.csproj.AssemblyReference.cache
+E:\WebApp\TNAUPMSAPI\TNAUPMS\obj\Release\net6.0\TNAUPMS.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebApp\TNAUPMSAPI\TNAUPMS\obj\Release\net6.0\TNAUPMS.AssemblyInfoInputs.cache
+E:\WebApp\TNAUPMSAPI\TNAUPMS\obj\Release\net6.0\TNAUPMS.AssemblyInfo.cs
+E:\WebApp\TNAUPMSAPI\TNAUPMS\obj\Release\net6.0\TNAUPMS.csproj.CoreCompileInputs.cache
+E:\WebApp\TNAUPMSAPI\TNAUPMS\obj\Release\net6.0\TNAUPMS.dll
+E:\WebApp\TNAUPMSAPI\TNAUPMS\obj\Release\net6.0\refint\TNAUPMS.dll
+E:\WebApp\TNAUPMSAPI\TNAUPMS\obj\Release\net6.0\TNAUPMS.pdb
+E:\WebApp\TNAUPMSAPI\TNAUPMS\obj\Release\net6.0\ref\TNAUPMS.dll

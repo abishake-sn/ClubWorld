@@ -1,0 +1,15 @@
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk.Domains\bin\Debug\net6.0\ClubTrakk.Domains.deps.json
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk.Domains\bin\Debug\net6.0\ClubTrakk.Domains.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk.Domains\bin\Debug\net6.0\ClubTrakk.Domains.pdb
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk.Domains\bin\Debug\net6.0\ClubTrakk.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk.Domains\bin\Debug\net6.0\ClubTrakk.pdb
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk.Domains\obj\Debug\net6.0\ClubTrakk.Domains.csproj.AssemblyReference.cache
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk.Domains\obj\Debug\net6.0\ClubTrakk.Domains.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk.Domains\obj\Debug\net6.0\ClubTrakk.Domains.AssemblyInfoInputs.cache
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk.Domains\obj\Debug\net6.0\ClubTrakk.Domains.AssemblyInfo.cs
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk.Domains\obj\Debug\net6.0\ClubTrakk.Domains.csproj.CoreCompileInputs.cache
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk.Domains\obj\Debug\net6.0\ClubTrakk.Domains.csproj.CopyComplete
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk.Domains\obj\Debug\net6.0\ClubTrakk.Domains.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk.Domains\obj\Debug\net6.0\refint\ClubTrakk.Domains.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk.Domains\obj\Debug\net6.0\ClubTrakk.Domains.pdb
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk.Domains\obj\Debug\net6.0\ref\ClubTrakk.Domains.dll

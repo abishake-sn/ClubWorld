@@ -1,0 +1,15 @@
+F:\WebApp\TnSericultureApi\TnSericulture.Domains\bin\Release\net5.0\TnSericulture.Domains.deps.json
+F:\WebApp\TnSericultureApi\TnSericulture.Domains\bin\Release\net5.0\TnSericulture.Domains.dll
+F:\WebApp\TnSericultureApi\TnSericulture.Domains\bin\Release\net5.0\TnSericulture.Domains.pdb
+F:\WebApp\TnSericultureApi\TnSericulture.Domains\bin\Release\net5.0\TnSericulture.dll
+F:\WebApp\TnSericultureApi\TnSericulture.Domains\bin\Release\net5.0\TnSericulture.pdb
+F:\WebApp\TnSericultureApi\TnSericulture.Domains\obj\Release\net5.0\TnSericulture.Domains.csproj.AssemblyReference.cache
+F:\WebApp\TnSericultureApi\TnSericulture.Domains\obj\Release\net5.0\TnSericulture.Domains.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebApp\TnSericultureApi\TnSericulture.Domains\obj\Release\net5.0\TnSericulture.Domains.AssemblyInfoInputs.cache
+F:\WebApp\TnSericultureApi\TnSericulture.Domains\obj\Release\net5.0\TnSericulture.Domains.AssemblyInfo.cs
+F:\WebApp\TnSericultureApi\TnSericulture.Domains\obj\Release\net5.0\TnSericulture.Domains.csproj.CoreCompileInputs.cache
+F:\WebApp\TnSericultureApi\TnSericulture.Domains\obj\Release\net5.0\TnSericulture.Domains.csproj.CopyComplete
+F:\WebApp\TnSericultureApi\TnSericulture.Domains\obj\Release\net5.0\TnSericulture.Domains.dll
+F:\WebApp\TnSericultureApi\TnSericulture.Domains\obj\Release\net5.0\refint\TnSericulture.Domains.dll
+F:\WebApp\TnSericultureApi\TnSericulture.Domains\obj\Release\net5.0\TnSericulture.Domains.pdb
+F:\WebApp\TnSericultureApi\TnSericulture.Domains\obj\Release\net5.0\ref\TnSericulture.Domains.dll

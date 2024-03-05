@@ -1,0 +1,218 @@
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\appsettings.Development.json
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\appsettings.json
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.WebApi.exe
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.WebApi.deps.json
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.WebApi.runtimeconfig.json
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.WebApi.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.WebApi.pdb
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\JetBrains.Annotations.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Net.Http.Formatting.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Web.Http.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Web.Http.Owin.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Owin.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Owin.Hosting.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Abstractions.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Core.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.EntityFrameworkCore.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.EntityFrameworkCore.Models.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Server.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Server.AspNetCore.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Server.DataProtection.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Validation.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Validation.AspNetCore.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Validation.DataProtection.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Validation.ServerIntegration.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Validation.SystemNetHttp.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Owin.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Polly.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Polly.Extensions.Http.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.Domains.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.Domains.pdb
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.pdb
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.csproj.AssemblyReference.cache
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.Properties.Resources.resources
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.csproj.GenerateResource.cache
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.AssemblyInfoInputs.cache
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.AssemblyInfo.cs
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\staticwebassets\msbuild.ClubTrakk.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\staticwebassets\msbuild.build.ClubTrakk.WebApi.props
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClubTrakk.WebApi.props
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.ClubTrakk.WebApi.props
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\scopedcss\bundle\ClubTrakk.WebApi.styles.css
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.csproj.CopyComplete
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\refint\ClubTrakk.WebApi.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.pdb
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.genruntimeconfig.cache
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ref\ClubTrakk.WebApi.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Azure.Core.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Azure.Identity.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\appsettings.Development.json
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\appsettings.json
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.WebApi.exe
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.WebApi.deps.json
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.WebApi.runtimeconfig.json
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.WebApi.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.WebApi.pdb
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Azure.Core.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Azure.Identity.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\JetBrains.Annotations.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Net.Http.Formatting.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Web.Http.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Web.Http.Owin.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.Http.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.Http.Polly.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Identity.Client.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Owin.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Owin.Host.HttpListener.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Owin.Hosting.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Newtonsoft.Json.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Abstractions.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Core.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.EntityFrameworkCore.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.EntityFrameworkCore.Models.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Server.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Server.AspNetCore.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Server.DataProtection.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Validation.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Validation.AspNetCore.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Validation.DataProtection.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Validation.ServerIntegration.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\OpenIddict.Validation.SystemNetHttp.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Owin.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Polly.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\Polly.Extensions.Http.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Drawing.Common.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Memory.Data.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Runtime.Caching.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Security.Permissions.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\System.Windows.Extensions.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.Domains.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.Domains.pdb
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\bin\Release\net6.0\ClubTrakk.pdb
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.csproj.AssemblyReference.cache
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.Properties.Resources.resources
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.csproj.GenerateResource.cache
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.AssemblyInfoInputs.cache
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.AssemblyInfo.cs
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.csproj.CoreCompileInputs.cache
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\staticwebassets\msbuild.ClubTrakk.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\staticwebassets\msbuild.build.ClubTrakk.WebApi.props
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClubTrakk.WebApi.props
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.ClubTrakk.WebApi.props
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\staticwebassets.pack.json
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\staticwebassets.build.json
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\staticwebassets.development.json
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\scopedcss\bundle\ClubTrakk.WebApi.styles.css
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.csproj.CopyComplete
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\refint\ClubTrakk.WebApi.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.pdb
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ClubTrakk.WebApi.genruntimeconfig.cache
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakkAPI\obj\Release\net6.0\ref\ClubTrakk.WebApi.dll

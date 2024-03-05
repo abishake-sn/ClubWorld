@@ -1,0 +1,12 @@
+D:\WorkSpace\ClubWorldApi\ClubWorld\bin\Debug\net6.0\ClubWorld.deps.json
+D:\WorkSpace\ClubWorldApi\ClubWorld\bin\Debug\net6.0\ClubWorld.dll
+D:\WorkSpace\ClubWorldApi\ClubWorld\bin\Debug\net6.0\ClubWorld.pdb
+D:\WorkSpace\ClubWorldApi\ClubWorld\obj\Debug\net6.0\ClubWorld.csproj.AssemblyReference.cache
+D:\WorkSpace\ClubWorldApi\ClubWorld\obj\Debug\net6.0\ClubWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\ClubWorldApi\ClubWorld\obj\Debug\net6.0\ClubWorld.AssemblyInfoInputs.cache
+D:\WorkSpace\ClubWorldApi\ClubWorld\obj\Debug\net6.0\ClubWorld.AssemblyInfo.cs
+D:\WorkSpace\ClubWorldApi\ClubWorld\obj\Debug\net6.0\ClubWorld.csproj.CoreCompileInputs.cache
+D:\WorkSpace\ClubWorldApi\ClubWorld\obj\Debug\net6.0\ClubWorld.dll
+D:\WorkSpace\ClubWorldApi\ClubWorld\obj\Debug\net6.0\refint\ClubWorld.dll
+D:\WorkSpace\ClubWorldApi\ClubWorld\obj\Debug\net6.0\ClubWorld.pdb
+D:\WorkSpace\ClubWorldApi\ClubWorld\obj\Debug\net6.0\ref\ClubWorld.dll

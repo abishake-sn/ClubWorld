@@ -1,0 +1,15 @@
+F:\WebApp\DoteVIPI\DoteVIPI.Domains\bin\Debug\net5.0\DoteVIPI.Domains.deps.json
+F:\WebApp\DoteVIPI\DoteVIPI.Domains\bin\Debug\net5.0\DoteVIPI.Domains.dll
+F:\WebApp\DoteVIPI\DoteVIPI.Domains\bin\Debug\net5.0\DoteVIPI.Domains.pdb
+F:\WebApp\DoteVIPI\DoteVIPI.Domains\bin\Debug\net5.0\DoteVIPI.dll
+F:\WebApp\DoteVIPI\DoteVIPI.Domains\bin\Debug\net5.0\DoteVIPI.pdb
+F:\WebApp\DoteVIPI\DoteVIPI.Domains\obj\Debug\net5.0\DoteVIPI.Domains.csproj.AssemblyReference.cache
+F:\WebApp\DoteVIPI\DoteVIPI.Domains\obj\Debug\net5.0\DoteVIPI.Domains.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebApp\DoteVIPI\DoteVIPI.Domains\obj\Debug\net5.0\DoteVIPI.Domains.AssemblyInfoInputs.cache
+F:\WebApp\DoteVIPI\DoteVIPI.Domains\obj\Debug\net5.0\DoteVIPI.Domains.AssemblyInfo.cs
+F:\WebApp\DoteVIPI\DoteVIPI.Domains\obj\Debug\net5.0\DoteVIPI.Domains.csproj.CoreCompileInputs.cache
+F:\WebApp\DoteVIPI\DoteVIPI.Domains\obj\Debug\net5.0\DoteVIPI.Domains.csproj.CopyComplete
+F:\WebApp\DoteVIPI\DoteVIPI.Domains\obj\Debug\net5.0\DoteVIPI.Domains.dll
+F:\WebApp\DoteVIPI\DoteVIPI.Domains\obj\Debug\net5.0\refint\DoteVIPI.Domains.dll
+F:\WebApp\DoteVIPI\DoteVIPI.Domains\obj\Debug\net5.0\DoteVIPI.Domains.pdb
+F:\WebApp\DoteVIPI\DoteVIPI.Domains\obj\Debug\net5.0\ref\DoteVIPI.Domains.dll

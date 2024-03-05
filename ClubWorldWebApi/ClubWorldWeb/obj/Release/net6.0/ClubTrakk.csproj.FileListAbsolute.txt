@@ -1,0 +1,24 @@
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakk\bin\Release\net6.0\ClubTrakk.deps.json
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakk\bin\Release\net6.0\ClubTrakk.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakk\bin\Release\net6.0\ClubTrakk.pdb
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ClubTrakk.csproj.AssemblyReference.cache
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ClubTrakk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ClubTrakk.AssemblyInfoInputs.cache
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ClubTrakk.AssemblyInfo.cs
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ClubTrakk.csproj.CoreCompileInputs.cache
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ClubTrakk.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\refint\ClubTrakk.dll
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ClubTrakk.pdb
+C:\Users\AZHAGESAN C\Desktop\31.03.2023\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ref\ClubTrakk.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk\bin\Release\net6.0\ClubTrakk.deps.json
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk\bin\Release\net6.0\ClubTrakk.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk\bin\Release\net6.0\ClubTrakk.pdb
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ClubTrakk.csproj.AssemblyReference.cache
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ClubTrakk.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ClubTrakk.AssemblyInfoInputs.cache
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ClubTrakk.AssemblyInfo.cs
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ClubTrakk.csproj.CoreCompileInputs.cache
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ClubTrakk.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\refint\ClubTrakk.dll
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ClubTrakk.pdb
+F:\Workspace\WebApp\ClubTrakkWeb\ClubTrakk\obj\Release\net6.0\ref\ClubTrakk.dll

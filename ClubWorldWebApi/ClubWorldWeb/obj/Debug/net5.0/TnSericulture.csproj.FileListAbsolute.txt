@@ -1,0 +1,12 @@
+F:\WebApp\TnSericultureApi\TnSericulture\bin\Debug\net5.0\TnSericulture.deps.json
+F:\WebApp\TnSericultureApi\TnSericulture\bin\Debug\net5.0\TnSericulture.dll
+F:\WebApp\TnSericultureApi\TnSericulture\bin\Debug\net5.0\TnSericulture.pdb
+F:\WebApp\TnSericultureApi\TnSericulture\obj\Debug\net5.0\TnSericulture.csproj.AssemblyReference.cache
+F:\WebApp\TnSericultureApi\TnSericulture\obj\Debug\net5.0\TnSericulture.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebApp\TnSericultureApi\TnSericulture\obj\Debug\net5.0\TnSericulture.AssemblyInfoInputs.cache
+F:\WebApp\TnSericultureApi\TnSericulture\obj\Debug\net5.0\TnSericulture.AssemblyInfo.cs
+F:\WebApp\TnSericultureApi\TnSericulture\obj\Debug\net5.0\TnSericulture.csproj.CoreCompileInputs.cache
+F:\WebApp\TnSericultureApi\TnSericulture\obj\Debug\net5.0\TnSericulture.dll
+F:\WebApp\TnSericultureApi\TnSericulture\obj\Debug\net5.0\refint\TnSericulture.dll
+F:\WebApp\TnSericultureApi\TnSericulture\obj\Debug\net5.0\TnSericulture.pdb
+F:\WebApp\TnSericultureApi\TnSericulture\obj\Debug\net5.0\ref\TnSericulture.dll

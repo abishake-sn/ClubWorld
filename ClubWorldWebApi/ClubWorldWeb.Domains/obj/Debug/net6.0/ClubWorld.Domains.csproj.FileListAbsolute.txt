@@ -1,0 +1,15 @@
+D:\WorkSpace\ClubWorldApi\ClubWorld.Domains\bin\Debug\net6.0\ClubWorld.Domains.deps.json
+D:\WorkSpace\ClubWorldApi\ClubWorld.Domains\bin\Debug\net6.0\ClubWorld.Domains.dll
+D:\WorkSpace\ClubWorldApi\ClubWorld.Domains\bin\Debug\net6.0\ClubWorld.Domains.pdb
+D:\WorkSpace\ClubWorldApi\ClubWorld.Domains\bin\Debug\net6.0\ClubWorld.dll
+D:\WorkSpace\ClubWorldApi\ClubWorld.Domains\bin\Debug\net6.0\ClubWorld.pdb
+D:\WorkSpace\ClubWorldApi\ClubWorld.Domains\obj\Debug\net6.0\ClubWorld.Domains.csproj.AssemblyReference.cache
+D:\WorkSpace\ClubWorldApi\ClubWorld.Domains\obj\Debug\net6.0\ClubWorld.Domains.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\ClubWorldApi\ClubWorld.Domains\obj\Debug\net6.0\ClubWorld.Domains.AssemblyInfoInputs.cache
+D:\WorkSpace\ClubWorldApi\ClubWorld.Domains\obj\Debug\net6.0\ClubWorld.Domains.AssemblyInfo.cs
+D:\WorkSpace\ClubWorldApi\ClubWorld.Domains\obj\Debug\net6.0\ClubWorld.Domains.csproj.CoreCompileInputs.cache
+D:\WorkSpace\ClubWorldApi\ClubWorld.Domains\obj\Debug\net6.0\ClubWorld.Domains.csproj.CopyComplete
+D:\WorkSpace\ClubWorldApi\ClubWorld.Domains\obj\Debug\net6.0\ClubWorld.Domains.dll
+D:\WorkSpace\ClubWorldApi\ClubWorld.Domains\obj\Debug\net6.0\refint\ClubWorld.Domains.dll
+D:\WorkSpace\ClubWorldApi\ClubWorld.Domains\obj\Debug\net6.0\ClubWorld.Domains.pdb
+D:\WorkSpace\ClubWorldApi\ClubWorld.Domains\obj\Debug\net6.0\ref\ClubWorld.Domains.dll

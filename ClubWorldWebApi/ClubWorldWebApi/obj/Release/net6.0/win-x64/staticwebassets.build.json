@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1WGYhD/nGjxMuF+e6hBXd3nBh0FJQwDKWuSNKMc/6D8=",
+  "Source": "ClubWorldWeb.WebApi",
+  "BasePath": "_content/ClubWorldWeb.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

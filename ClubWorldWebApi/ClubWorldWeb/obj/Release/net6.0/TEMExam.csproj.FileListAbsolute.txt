@@ -1,0 +1,12 @@
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam\bin\Release\net6.0\TEMExam.deps.json
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam\bin\Release\net6.0\TEMExam.dll
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam\bin\Release\net6.0\TEMExam.pdb
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam\obj\Release\net6.0\TEMExam.csproj.AssemblyReference.cache
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam\obj\Release\net6.0\TEMExam.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam\obj\Release\net6.0\TEMExam.AssemblyInfoInputs.cache
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam\obj\Release\net6.0\TEMExam.AssemblyInfo.cs
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam\obj\Release\net6.0\TEMExam.csproj.CoreCompileInputs.cache
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam\obj\Release\net6.0\TEMExam.dll
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam\obj\Release\net6.0\refint\TEMExam.dll
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam\obj\Release\net6.0\TEMExam.pdb
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam\obj\Release\net6.0\ref\TEMExam.dll

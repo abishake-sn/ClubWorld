@@ -1,0 +1,15 @@
+F:\WebApp\TNAUPMSAPI\TNAUPMS.Domains\bin\Debug\net5.0\TNAUPMS.Domains.deps.json
+F:\WebApp\TNAUPMSAPI\TNAUPMS.Domains\bin\Debug\net5.0\TNAUPMS.Domains.dll
+F:\WebApp\TNAUPMSAPI\TNAUPMS.Domains\bin\Debug\net5.0\TNAUPMS.Domains.pdb
+F:\WebApp\TNAUPMSAPI\TNAUPMS.Domains\bin\Debug\net5.0\TNAUPMS.dll
+F:\WebApp\TNAUPMSAPI\TNAUPMS.Domains\bin\Debug\net5.0\TNAUPMS.pdb
+F:\WebApp\TNAUPMSAPI\TNAUPMS.Domains\obj\Debug\net5.0\TNAUPMS.Domains.csproj.AssemblyReference.cache
+F:\WebApp\TNAUPMSAPI\TNAUPMS.Domains\obj\Debug\net5.0\TNAUPMS.Domains.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebApp\TNAUPMSAPI\TNAUPMS.Domains\obj\Debug\net5.0\TNAUPMS.Domains.AssemblyInfoInputs.cache
+F:\WebApp\TNAUPMSAPI\TNAUPMS.Domains\obj\Debug\net5.0\TNAUPMS.Domains.AssemblyInfo.cs
+F:\WebApp\TNAUPMSAPI\TNAUPMS.Domains\obj\Debug\net5.0\TNAUPMS.Domains.csproj.CoreCompileInputs.cache
+F:\WebApp\TNAUPMSAPI\TNAUPMS.Domains\obj\Debug\net5.0\TNAUPMS.Domains.csproj.CopyComplete
+F:\WebApp\TNAUPMSAPI\TNAUPMS.Domains\obj\Debug\net5.0\TNAUPMS.Domains.dll
+F:\WebApp\TNAUPMSAPI\TNAUPMS.Domains\obj\Debug\net5.0\refint\TNAUPMS.Domains.dll
+F:\WebApp\TNAUPMSAPI\TNAUPMS.Domains\obj\Debug\net5.0\TNAUPMS.Domains.pdb
+F:\WebApp\TNAUPMSAPI\TNAUPMS.Domains\obj\Debug\net5.0\ref\TNAUPMS.Domains.dll

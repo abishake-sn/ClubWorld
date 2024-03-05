@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ClubWorld\\ClubWorldWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4531DB09-02C3-4613-A773-046D4F96A379}|ClubWorldWebApi\\ClubWorldWeb.WebApi.csproj|d:\\clubworld\\clubworldwebapi\\clubworldwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4531DB09-02C3-4613-A773-046D4F96A379}|ClubWorldWebApi\\ClubWorldWeb.WebApi.csproj|solutionrelative:clubworldwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4531DB09-02C3-4613-A773-046D4F96A379}|ClubWorldWebApi\\ClubWorldWeb.WebApi.csproj|d:\\clubworld\\clubworldwebapi\\clubworldwebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4531DB09-02C3-4613-A773-046D4F96A379}|ClubWorldWebApi\\ClubWorldWeb.WebApi.csproj|solutionrelative:clubworldwebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41672DBA-3A2E-4D2F-8257-724BCCB21691}|ClubWorldWeb.Domains\\ClubWorldWeb.Domains.csproj|d:\\clubworld\\clubworldwebapi\\clubworldweb.domains\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41672DBA-3A2E-4D2F-8257-724BCCB21691}|ClubWorldWeb.Domains\\ClubWorldWeb.Domains.csproj|solutionrelative:clubworldweb.domains\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41672DBA-3A2E-4D2F-8257-724BCCB21691}|ClubWorldWeb.Domains\\ClubWorldWeb.Domains.csproj|d:\\clubworld\\clubworldwebapi\\clubworldweb.domains\\repositories\\transaction\\trnonlinepaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41672DBA-3A2E-4D2F-8257-724BCCB21691}|ClubWorldWeb.Domains\\ClubWorldWeb.Domains.csproj|solutionrelative:clubworldweb.domains\\repositories\\transaction\\trnonlinepaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41672DBA-3A2E-4D2F-8257-724BCCB21691}|ClubWorldWeb.Domains\\ClubWorldWeb.Domains.csproj|d:\\clubworld\\clubworldwebapi\\clubworldweb.domains\\models\\transaction\\trnledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41672DBA-3A2E-4D2F-8257-724BCCB21691}|ClubWorldWeb.Domains\\ClubWorldWeb.Domains.csproj|solutionrelative:clubworldweb.domains\\models\\transaction\\trnledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41672DBA-3A2E-4D2F-8257-724BCCB21691}|ClubWorldWeb.Domains\\ClubWorldWeb.Domains.csproj|d:\\clubworld\\clubworldwebapi\\clubworldweb.domains\\models\\clubworlddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41672DBA-3A2E-4D2F-8257-724BCCB21691}|ClubWorldWeb.Domains\\ClubWorldWeb.Domains.csproj|solutionrelative:clubworldweb.domains\\models\\clubworlddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ClubWorld\\ClubWorldWebApi\\ClubWorldWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ClubWorldWebApi\\appsettings.json",
+              "ToolTip": "D:\\ClubWorld\\ClubWorldWebApi\\ClubWorldWebApi\\appsettings.json",
+              "RelativeToolTip": "ClubWorldWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-05T12:48:55.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\ClubWorld\\ClubWorldWebApi\\ClubWorldWebApi\\Startup.cs",
+              "RelativeDocumentMoniker": "ClubWorldWebApi\\Startup.cs",
+              "ToolTip": "D:\\ClubWorld\\ClubWorldWebApi\\ClubWorldWebApi\\Startup.cs",
+              "RelativeToolTip": "ClubWorldWebApi\\Startup.cs",
+              "ViewState": "AQIAAGIAAACAZmZmZuYnwJ0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:41:17.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\ClubWorld\\ClubWorldWebApi\\ClubWorldWeb.Domains\\Startup.cs",
+              "RelativeDocumentMoniker": "ClubWorldWeb.Domains\\Startup.cs",
+              "ToolTip": "D:\\ClubWorld\\ClubWorldWebApi\\ClubWorldWeb.Domains\\Startup.cs",
+              "RelativeToolTip": "ClubWorldWeb.Domains\\Startup.cs",
+              "ViewState": "AQIAABQAAACoZGZmZmYSwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:02:24.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrnOnlinePaymentRepository.cs",
+              "DocumentMoniker": "D:\\ClubWorld\\ClubWorldWebApi\\ClubWorldWeb.Domains\\Repositories\\Transaction\\TrnOnlinePaymentRepository.cs",
+              "RelativeDocumentMoniker": "ClubWorldWeb.Domains\\Repositories\\Transaction\\TrnOnlinePaymentRepository.cs",
+              "ToolTip": "D:\\ClubWorld\\ClubWorldWebApi\\ClubWorldWeb.Domains\\Repositories\\Transaction\\TrnOnlinePaymentRepository.cs",
+              "RelativeToolTip": "ClubWorldWeb.Domains\\Repositories\\Transaction\\TrnOnlinePaymentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:02:24.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClubWorldDbContext.cs",
+              "DocumentMoniker": "D:\\ClubWorld\\ClubWorldWebApi\\ClubWorldWeb.Domains\\Models\\ClubWorldDbContext.cs",
+              "RelativeDocumentMoniker": "ClubWorldWeb.Domains\\Models\\ClubWorldDbContext.cs",
+              "ToolTip": "D:\\ClubWorld\\ClubWorldWebApi\\ClubWorldWeb.Domains\\Models\\ClubWorldDbContext.cs",
+              "RelativeToolTip": "ClubWorldWeb.Domains\\Models\\ClubWorldDbContext.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:02:24.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrnLedger.cs",
+              "DocumentMoniker": "D:\\ClubWorld\\ClubWorldWebApi\\ClubWorldWeb.Domains\\Models\\Transaction\\TrnLedger.cs",
+              "RelativeDocumentMoniker": "ClubWorldWeb.Domains\\Models\\Transaction\\TrnLedger.cs",
+              "ToolTip": "D:\\ClubWorld\\ClubWorldWebApi\\ClubWorldWeb.Domains\\Models\\Transaction\\TrnLedger.cs",
+              "RelativeToolTip": "ClubWorldWeb.Domains\\Models\\Transaction\\TrnLedger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:02:24.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam.Domains\bin\Debug\net6.0\TEMExam.Domains.deps.json
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam.Domains\bin\Debug\net6.0\TEMExam.Domains.dll
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam.Domains\bin\Debug\net6.0\TEMExam.Domains.pdb
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam.Domains\bin\Debug\net6.0\TEMExam.dll
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam.Domains\bin\Debug\net6.0\TEMExam.pdb
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam.Domains\obj\Debug\net6.0\TEMExam.Domains.csproj.AssemblyReference.cache
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam.Domains\obj\Debug\net6.0\TEMExam.Domains.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam.Domains\obj\Debug\net6.0\TEMExam.Domains.AssemblyInfoInputs.cache
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam.Domains\obj\Debug\net6.0\TEMExam.Domains.AssemblyInfo.cs
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam.Domains\obj\Debug\net6.0\TEMExam.Domains.csproj.CoreCompileInputs.cache
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam.Domains\obj\Debug\net6.0\TEMExam.Domains.csproj.CopyComplete
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam.Domains\obj\Debug\net6.0\TEMExam.Domains.dll
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam.Domains\obj\Debug\net6.0\refint\TEMExam.Domains.dll
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam.Domains\obj\Debug\net6.0\TEMExam.Domains.pdb
+F:\Workspace\WebApp\TheExamMate\TEMExam\TEMExam.Domains\obj\Debug\net6.0\ref\TEMExam.Domains.dll

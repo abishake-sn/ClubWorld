@@ -1,0 +1,12 @@
+F:\WebApp\DoteVIPI\DoteVIPI\bin\Debug\net5.0\DoteVIPI.deps.json
+F:\WebApp\DoteVIPI\DoteVIPI\bin\Debug\net5.0\DoteVIPI.dll
+F:\WebApp\DoteVIPI\DoteVIPI\bin\Debug\net5.0\DoteVIPI.pdb
+F:\WebApp\DoteVIPI\DoteVIPI\obj\Debug\net5.0\DoteVIPI.csproj.AssemblyReference.cache
+F:\WebApp\DoteVIPI\DoteVIPI\obj\Debug\net5.0\DoteVIPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebApp\DoteVIPI\DoteVIPI\obj\Debug\net5.0\DoteVIPI.AssemblyInfoInputs.cache
+F:\WebApp\DoteVIPI\DoteVIPI\obj\Debug\net5.0\DoteVIPI.AssemblyInfo.cs
+F:\WebApp\DoteVIPI\DoteVIPI\obj\Debug\net5.0\DoteVIPI.csproj.CoreCompileInputs.cache
+F:\WebApp\DoteVIPI\DoteVIPI\obj\Debug\net5.0\DoteVIPI.dll
+F:\WebApp\DoteVIPI\DoteVIPI\obj\Debug\net5.0\refint\DoteVIPI.dll
+F:\WebApp\DoteVIPI\DoteVIPI\obj\Debug\net5.0\DoteVIPI.pdb
+F:\WebApp\DoteVIPI\DoteVIPI\obj\Debug\net5.0\ref\DoteVIPI.dll
